@@ -35,12 +35,11 @@
                 </div>
                 <div class="col-md-10 col">
                     <ul class="nav navbar" id="navegacao">
-                        <li><a href="#informacoes">Informações</a></li>
-                        <li><a href="#ativos">Ativos</a></li>
-                        <li><a href="#passo-passo">Passo a Passo</a></li>
-                        <li><a href="#antes-depois">Antes e Depois</a></li>
-                        <li><a href="#produtos">Outros Produtos</a></li>
-                        <li><a href="#duvidas">Dúvidas Frequentes</a></li>
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#empresa">Empresa</a></li>
+                        <li><a href="#serviços">Serviços</a></li>
+                        <li><a href="#parceiros">Parceiros</a></li>
+                        <li><a href="#certificado">Certificado</a></li>
                         <li><a href="#contato">Contato</a></li>
                     </ul>
                     <div class="chamaResponsivo" style="display: none;">
